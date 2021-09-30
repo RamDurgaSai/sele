@@ -1,0 +1,7 @@
+*.json
+*.secret
+*.db
+*.session
+*.log
+*.txt
+*.xml
